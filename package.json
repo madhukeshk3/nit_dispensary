@@ -1,0 +1,29 @@
+{
+  "name": "nit_dispensary",
+  "version": "1.0.0",
+  "description": "A Web Application That Is Used To Manage Dispensary Of NITJSR.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhukeshk3/nit_dispensary.git"
+  },
+  "author": "Madhukesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhukeshk3/nit_dispensary/issues"
+  },
+  "homepage": "https://github.com/madhukeshk3/nit_dispensary#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.6"
+  }
+}
